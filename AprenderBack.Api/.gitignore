@@ -1,0 +1,15 @@
+
+# Visual Studio
+.vs/
+**/.vs/
+
+# Compilação .NET
+**/bin/
+**/obj/
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+
+# Configurações locais
+.env
